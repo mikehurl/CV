@@ -1,7 +1,9 @@
 # Mike Hurl
 
-An aspiring developer with significant experience in the education field and with administrative tasks. In all situations I am patient, calm and level-headed. I adapt quickly and effectively to new situations and have a proven record of achieving in high-pressure environments. 
-My programming journey has started with joining Makers Academdy, an extremely selevtive coding bootcamp where typically only one in ten applicants begin the course. As a life-long learner, I also completed a diploma in my early twenties; obtained a first-class degree at 30, studying for two years in the evening whilst working as a primary school classroom assistant during the day; and completed a PGCE, an intense nine-month teacher training programme. 
+An aspiring developer with significant experience in the education field and with administrative tasks. In all situations I am patient, calm and level-headed. I adapt quickly and effectively to new situations and have a proven record of achieving in high-pressure environments.
+
+My programming journey has started with joining Makers Academdy, an extremely selevtive coding bootcamp where typically only one in ten applicants begin the course. As a life-long learner, I also completed a diploma in my early twenties; obtained a first-class degree at 30, studying for two years in the evening whilst working as a primary school classroom assistant during the day; and completed a PGCE, an intense nine-month teacher training programme.
+
 I not only want to develop with code, I also want to continue to develop myself. As such, I want to work in an environment that will support my natural curiosity and desire to keep learning. At the same time, I am hoping to solve problems with like-minded individuals who will both support and push me as a developer.
 
 ## Skills
