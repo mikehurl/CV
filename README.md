@@ -19,42 +19,41 @@ I find it particularly satisfying to solve problems. As a recruiter, many of my 
 ## Education
 
 #### Makers Academy (October 2016 to February 2016)
-##### *The below list to be rewritten at appropriate time?*
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Software craftsmanship
+- Object-oriented programming, test-driven development, agile and SOLID practices
+- Git, Ruby & Javascript
+- Rspec & Jasmine
 
 #### Brunel University (September 2010 to July 2011)
-
 - Postgraduate Certificate in Primary Education (5-11 years) with recommendation for Qualified Teacher Status
 - Student representative
 
 #### Institute of Education (September 2008 to July 2010)
-
 - Bachelor of Education (Honours)
 - First-class
 - Student representative
 
 #### Middlesex University (September 1998 to July 2001)
-
 - Diploma of Higher Education
 
 ## Experience
 
 **Protocol Education** (October 2012 to October 2016)    
 *Senior Resource Consultant*
+Developing and managing a candidate pool of prospective teachers and support workers; attracting and interviewing candidates; marketing candidates to consultants. Promoted due to my work ethic and expertise within a year of passing my probation. From November 2014 my then line manager went on maternity leave. Certain administrative duties were passed on to me for the duration, including responsibility for dealing with complaints; managing large database changes; advising the team of any changes in practice; responsibility for petty cash; and interviewing, training and overseeing new starters.
 
 **Colvestone Primary School** (September 2011 to August 2012)   
-*Teacher* 
+*Teacher*
+Teaching a Year 2 class as a Newly Qualified Teacher. Developing schemes of work and lesson plans in line with curriculum objectives; organising learning resources and the classroom environment; assessing and recording pupil progress; and providing feedback to parents on progress.
 
 **Southwold Primary School** (September 2006 to July 2010)   
-*Classroom Assistant*  
+*Classroom Assistant* 
+Supporting pupils in accessing the curriculum and providing the class teacher with general clerical and administrative support. Voluntarily ran an after-school cricket club with the head teacher. Worked closely with the deputy head teacher and other members of staff to provide a charitably funded Saturday school.
 
 **Protocol Education** (June 2005 to March 2006)   
-*Classroom Assistant (temporary positions)*  
+*Classroom Assistant*  
+Daily, short and long-term temporary work in schools. Supporting pupils in accessing the curriculum and providing the class teacher with general clerical and administrative support.
 
 **Josephine Sammons** (November 2001 to June 2005)   
-*Administrative Officer (temporary positions within the civil service)*  
+*Administrative Officer* 
+Short and long-term temporary work in the Civil Service including: Drafting letters and replies on behalf of ministers; diary management; arranging and attending meetings; responding to emails and telephone enquiries; and website management.
