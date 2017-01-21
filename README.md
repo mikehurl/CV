@@ -23,7 +23,7 @@ As a recruiter, my suggestions around certain problematic recruitment and admini
 - Object-oriented programming, test-driven development, Agile and SOLID practices
 - Git, Ruby & Javascript
 - Rspec & Jasmine
-- 
+- Week 9 of 12 was a practice project week. Our team of four created a Ruby Gem ([https://rubygems.org/gems/has_belongs]).
 
 #### Brunel University (September 2010 to July 2011)
 - Postgraduate Certificate in Primary Education (5-11 years) with recommendation for Qualified Teacher Status
