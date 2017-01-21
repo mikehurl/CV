@@ -1,28 +1,29 @@
 # Mike Hurl
 
-An aspiring developer with significant experience in the education field and with administrative tasks. In all situations I am patient, calm and level-headed. I adapt quickly and effectively to new situations and have a proven record of achieving in high-pressure environments.
+A novice developer with significant experience in the education field and with administrative tasks. In all situations I am patient, calm and level-headed. I adapt quickly and effectively to new situations and have a proven record of achieving in high-pressure environments.
 
-My programming journey has started with joining Makers Academy, an extremely selective coding bootcamp where typically only one in ten applicants begin the course. As a life-long learner, I also completed a diploma in my early twenties; obtained a first-class degree at 30, studying for two years in the evening whilst working as a primary school classroom assistant during the day; and completed a PGCE, an intense nine-month teacher training programme.
+My programming journey has started with joining Makers Academy (MA), an extremely selective coding bootcamp where typically only one in twelve applicants begin the course. As a life-long learner, I have also completed a diploma in my early twenties; obtained a first-class degree at 30, studying for two years in the evening whilst working as a primary school classroom assistant during the day; and completed a PGCE, an intensive nine-month teacher training programme.
 
-I not only want to develop with code, I also want to continue to develop myself. As such, I want to work in an environment that will support my natural curiosity and desire to keep learning. At the same time, I am hoping to solve problems with like-minded individuals who will both support and push me as a developer.
+I not only want to develop with code, I also want to continue to develop myself. As such, I want to work in an environment that will support my natural curiosity and desire to keep learning. At the same time, in order to build things of value,  I am hoping to solve problems with like-minded individuals who will both support and push me as a developer.
 
 ## Skills
 
 #### Communication
 
-Throughout my working life, I have been a confident communicator in numerous contexts, with said contexts also further developing my communication skills. Working as a temp in the civil service, I have drafted letters for government ministers and answered emails and telephone calls from members of the public. At two universities I was a student representative, listening to concerns from peers and feeding back to university staff. Whilst teaching, I line managed other adults who were providing support to certain pupils in the classroom; delivered lessons to six and seven-year old children and wrote school reports for their parents. During my time in the recruitment field, I interviewed prospective temporary workers over the telephone and in person; outlined expectations and useful information to candidates; and acted as a general sounding-board for my line-manager due to being trusted, well-informed and thoughtful.
+Working as a temp in the civil service, I have drafted letters for government ministers and answered emails and telephone calls from members of the public. At two universities I was a student representative, listening to concerns from peers and feeding back to staff. Whilst teaching, I line-managed adults who supported certain pupils in the classroom; delivered lessons to six and seven-year old children and wrote school reports for their parents. In the recruitment field, I interviewed prospective temporary workers over the telephone and in person; outlined expectations and useful information to candidates; and acted as a general sounding-board for my line manager due to being trusted, well-informed and thoughtful. At Makers Academy we followed pair programming practices, and as such I worked and studied with a different individual on my cohort every day. This entailed being able to discuss understanding of new concepts as well as sharing problems and possible solutions. Alongside this, every day would consist of a stand-up or retro where we would reflect on and discuss previous learning and blocks to understanding.
 
 #### Problem Solving
 
-I find it particularly satisfying to solve problems. As a recruiter, many of my suggestions around certain recruitment and administrative processes were sought out taken on board. The interviewing procedures as I left the company are significantly different to when I joined.  Whilst my line manager was on maternity leave, I was instrumental during the process to replace other members of the team who quit during this period of time; being solely responsible for interviewing one prospective employee and jointly responsible with a line manager of another team for the second. As a teacher I regularly devised, considered and provided solutions in various circumstances. This would range from more mundane instances, such as management of low-level disruptive behaviour, to determining the best way to provide suitable learning experiences and to be confident that the lessons have successfully been taken on board as desired.
+As a recruiter, my suggestions around certain problematic recruitment and administrative processes were sought out. Whilst my line manager was on maternity leave, I was instrumental during the process to replace other members of the team who quit during this period of time; being solely responsible for interviewing one prospective employee and jointly responsible with a line manager of another team for the second. As a teacher I devised, considered and provided solutions in many circumstances. This ranged from more mundane instances, such as management of low-level disruptive behaviour, to providing suitable learning experiences and being confident that the lessons have successfully been taken on board as desired. As a Makers Academy student, my entire time was centred around the solving of problems, usually following test driven development practices. Each week consisted of a new challenge to introduce us to and further our understanding of concepts and best practice. Every weekend consisted of another challenge, working individually in order to consolidate that week’s learning.
 
 ## Education
 
 #### Makers Academy (October 2016 to February 2016)
 - Software craftsmanship
-- Object-oriented programming, test-driven development, agile and SOLID practices
+- Object-oriented programming, test-driven development, Agile and SOLID practices
 - Git, Ruby & Javascript
 - Rspec & Jasmine
+- 
 
 #### Brunel University (September 2010 to July 2011)
 - Postgraduate Certificate in Primary Education (5-11 years) with recommendation for Qualified Teacher Status
