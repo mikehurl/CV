@@ -40,16 +40,21 @@ As a recruiter, my suggestions around certain problematic recruitment and admini
 ## Experience
 
 **Protocol Education** (October 2012 to October 2016)    
-*Senior Resource Consultant*  Developing and managing a candidate pool of prospective teachers and support workers; attracting and interviewing candidates; marketing candidates to consultants. Promoted due to my work ethic and expertise within a year of passing my probation. From November 2014 my then line manager went on maternity leave. Certain administrative duties were passed on to me for the duration, including responsibility for dealing with complaints; managing large database changes; advising the team of any changes in practice; responsibility for petty cash; and interviewing, training and overseeing new starters.
+*Senior Resource Consultant*  
+Developing and managing a candidate pool of prospective teachers and support workers; attracting and interviewing candidates; marketing candidates to consultants. Promoted due to my work ethic and expertise within a year of passing my probation. From November 2014 my then line manager went on maternity leave. Certain administrative duties were passed on to me for the duration, including responsibility for dealing with complaints; managing large database changes; advising the team of any changes in practice; responsibility for petty cash; and interviewing, training and overseeing new starters.
 
 **Colvestone Primary School** (September 2011 to August 2012)   
-*Teacher*  Teaching a Year 2 class as a Newly Qualified Teacher. Developing schemes of work and lesson plans in line with curriculum objectives; organising learning resources and the classroom environment; assessing and recording pupil progress; and providing feedback to parents on progress.
+*Teacher*  
+Teaching a Year 2 class as a Newly Qualified Teacher. Developing schemes of work and lesson plans in line with curriculum objectives; organising learning resources and the classroom environment; assessing and recording pupil progress; and providing feedback to parents on progress.
 
 **Southwold Primary School** (September 2006 to July 2010)   
-*Classroom Assistant*  Supporting pupils in accessing the curriculum and providing the class teacher with general clerical and administrative support. Voluntarily ran an after-school cricket club with the head teacher. Worked closely with the deputy head teacher and other members of staff to provide a charitably funded Saturday school.
+*Classroom Assistant*  
+Supporting pupils in accessing the curriculum and providing the class teacher with general clerical and administrative support. Voluntarily ran an after-school cricket club with the head teacher. Worked closely with the deputy head teacher and other members of staff to provide a charitably funded Saturday school.
 
 **Protocol Education** (June 2005 to March 2006)   
-*Classroom Assistant*  Daily, short and long-term temporary work in schools. Supporting pupils in accessing the curriculum and providing the class teacher with general clerical and administrative support.
+*Classroom Assistant*  
+Daily, short and long-term temporary work in schools. Supporting pupils in accessing the curriculum and providing the class teacher with general clerical and administrative support.
 
 **Josephine Sammons** (November 2001 to June 2005)   
-*Administrative Officer*  Short and long-term temporary work in the Civil Service including: Drafting letters and replies on behalf of ministers; diary management; arranging and attending meetings; responding to emails and telephone enquiries; and website management.
+*Administrative Officer*  
+Short and long-term temporary work in the Civil Service including: Drafting letters and replies on behalf of ministers; diary management; arranging and attending meetings; responding to emails and telephone enquiries; and website management.
