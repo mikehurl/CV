@@ -1,5 +1,7 @@
 # Mike Hurl
 
+[Skills](#skills) | [Code](#code) | [Education](#education) | [Experience](#experience) 
+
 A novice developer with significant experience in the education field and with administrative tasks. In all situations I am patient, calm and level-headed. I adapt quickly and effectively to new situations and have a proven record of achieving in high-pressure environments.
 
 My programming journey has started with joining Makers Academy (MA), an extremely selective coding bootcamp where typically only one in twelve applicants begin the course. As a life-long learner, I have also completed a diploma in my early twenties; obtained a first-class degree at 30, studying for two years in the evening whilst working as a primary school classroom assistant during the day; and completed a PGCE, an intensive nine-month teacher training programme.
@@ -16,6 +18,16 @@ Working as a temp in the civil service, I have drafted letters for government mi
 
 As a recruiter, my suggestions around certain problematic recruitment and administrative processes were sought out. Whilst my line manager was on maternity leave, I was instrumental during the process to replace other members of the team who quit during this period of time; being solely responsible for interviewing one prospective employee and jointly responsible with a line manager of another team for the second. As a teacher I devised, considered and provided solutions in many circumstances. This ranged from more mundane instances, such as management of low-level disruptive behaviour, to providing suitable learning experiences and being confident that the lessons have successfully been taken on board as desired. As a Makers Academy student, my entire time was centred around the solving of problems, usually following test driven development practices. Each week consisted of a new challenge to introduce us to and further our understanding of concepts and best practice. Every weekend consisted of another challenge, working individually in order to consolidate that week’s learning.
 
+## Code
+
+| Name | Description | Tech | Timeframe |
+| --- | --- | --- | --- |
+| [Airport Challenge] (https://github.com/mikehurl/airport_challenge) | My first weekend challenge at Makers Academy; a baseline to see how far my coding has improved in just twelve weeks | Ruby, RSpec | Two days |
+| [Instagram Challenge] (https://github.com/mikehurl/instagram-challenge) | A clone of instagram after five days of learning Rails | Ruby on Rails, Haml, Javascript, HTML, CSS, Rspec, Capybara, PostgreSQL | Two days |
+| [has_belongs] (https://github.com/kwilson541/has_belongs) | A Ruby gem to manage PostgreSQL migrations, created as part of a team of four | Ruby on Rails, RSpec | Four days |
+| [ninteywine problems] (https://github.com/jimmygoldshine/Ninetywine-problems) | Our final project at Makers Academy. A food and wine pairing app with a matching algortihm of our own devising | Ruby on Rails, HTML, CSS, RSpec | Nine days |
+
+
 ## Education
 
 #### Makers Academy (October 2016 to February 2016)
@@ -23,7 +35,6 @@ As a recruiter, my suggestions around certain problematic recruitment and admini
 - Object-oriented programming, test-driven development, Agile and SOLID practices
 - Git, Ruby & Javascript
 - Rspec & Jasmine
-- Week 9 of 12 was a practice project week. Our team of four created a Ruby Gem (https://rubygems.org/gems/has_belongs).
 
 #### Brunel University (September 2010 to July 2011)
 - Postgraduate Certificate in Primary Education (5-11 years) with recommendation for Qualified Teacher Status
