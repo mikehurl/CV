@@ -1,6 +1,9 @@
 # Mike Hurl
 
-[Skills](#skills) | [Code](#code) | [Education](#education) | [Experience](#experience) 
+### [Profile] (#profile) | [Skills](#skills) | [Code](#code) | [Education](#education) | [Employment](#employment) 
+
+
+### Profile
 
 A novice developer with significant experience in the education field and with administrative tasks. In all situations I am patient, calm and level-headed. I adapt quickly and effectively to new situations and have a proven record of achieving in high-pressure environments.
 
@@ -8,7 +11,7 @@ My programming journey has started with joining Makers Academy (MA), an extremel
 
 I not only want to develop with code, I also want to continue to develop myself. As such, I want to work in an environment that will support my natural curiosity and desire to keep learning. At the same time, in order to build things of value,  I am hoping to solve problems with like-minded individuals who will both support and push me as a developer.
 
-## Skills
+### Skills
 
 #### Communication
 
@@ -18,7 +21,7 @@ Working as a temp in the civil service, I have drafted letters for government mi
 
 As a recruiter, my suggestions around certain problematic recruitment and administrative processes were sought out. Whilst my line manager was on maternity leave, I was instrumental during the process to replace other members of the team who quit during this period of time; being solely responsible for interviewing one prospective employee and jointly responsible with a line manager of another team for the second. As a teacher I devised, considered and provided solutions in many circumstances. This ranged from more mundane instances, such as management of low-level disruptive behaviour, to providing suitable learning experiences and being confident that the lessons have successfully been taken on board as desired. As a Makers Academy student, my entire time was centred around the solving of problems, usually following test driven development practices. Each week consisted of a new challenge to introduce us to and further our understanding of concepts and best practice. Every weekend consisted of another challenge, working individually in order to consolidate that week’s learning.
 
-## Code
+### Code
 
 | Name | Description | Tech | Timeframe |
 | --- | --- | --- | --- |
@@ -28,27 +31,27 @@ As a recruiter, my suggestions around certain problematic recruitment and admini
 | [ninteywine problems] (https://github.com/jimmygoldshine/Ninetywine-problems) | Our final project at Makers Academy. A food and wine pairing app with a matching algortihm of our own devising | Ruby on Rails, HTML, CSS, RSpec | Nine days |
 
 
-## Education
+### Education
 
-#### Makers Academy (October 2016 to February 2016)
+##### Makers Academy (October 2016 to February 2016)
 - Software craftsmanship
 - Object-oriented programming, test-driven development, Agile and SOLID practices
 - Git, Ruby & Javascript
 - Rspec & Jasmine
 
-#### Brunel University (September 2010 to July 2011)
+##### Brunel University (September 2010 to July 2011)
 - Postgraduate Certificate in Primary Education (5-11 years) with recommendation for Qualified Teacher Status
 - Student representative
 
-#### Institute of Education (September 2008 to July 2010)
+##### Institute of Education (September 2008 to July 2010)
 - Bachelor of Education (Honours)
 - First-class
 - Student representative
 
-#### Middlesex University (September 1998 to July 2001)
+##### Middlesex University (September 1998 to July 2001)
 - Diploma of Higher Education
 
-## Experience
+### Employment
 
 **Protocol Education** (October 2012 to October 2016)    
 *Senior Resource Consultant*  
