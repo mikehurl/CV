@@ -25,10 +25,10 @@ As a recruiter, my suggestions around certain problematic recruitment and admini
 
 | Name | Description | Tech | Timeframe |
 | --- | --- | --- | --- |
-| [Airport Challenge] (https://github.com/mikehurl/airport_challenge) | My first weekend challenge at Makers Academy; a baseline to see how far my coding has improved in just twelve weeks | Ruby, RSpec | Two days |
-| [Instagram Challenge] (https://github.com/mikehurl/instagram-challenge) | A clone of instagram after five days of learning Rails | Ruby on Rails, Haml, Javascript, HTML, CSS, Rspec, Capybara, PostgreSQL | Two days |
-| [has_belongs] (https://github.com/kwilson541/has_belongs) | A Ruby gem to manage PostgreSQL migrations, created as part of a team of four | Ruby on Rails, RSpec | Four days |
-| [ninteywine problems] (https://github.com/jimmygoldshine/Ninetywine-problems) | Our final project at Makers Academy. A food and wine pairing app with a matching algortihm of our own devising | Ruby on Rails, HTML, CSS, RSpec | Nine days |
+| [Airport Challenge](https://github.com/mikehurl/airport_challenge) | My first weekend challenge at Makers Academy; a baseline to see how far my coding has improved in just twelve weeks | Ruby, RSpec | Two days |
+| [Instagram Challenge](https://github.com/mikehurl/instagram-challenge) | A clone of instagram after five days of learning Rails | Ruby on Rails, Haml, Javascript, HTML, CSS, Rspec, Capybara, PostgreSQL | Two days |
+| [has_belongs](https://github.com/kwilson541/has_belongs) | A Ruby gem to manage PostgreSQL migrations, created as part of a team of four | Ruby on Rails, RSpec | Four days |
+| [ninteywine problems](https://github.com/jimmygoldshine/Ninetywine-problems) | Our final project at Makers Academy. A food and wine pairing app with a matching algortihm of our own devising | Ruby on Rails, HTML, CSS, RSpec | Nine days |
 
 
 ### Education
