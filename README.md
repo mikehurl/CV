@@ -1,6 +1,6 @@
 # Mike Hurl
 
-### [Profile] (#profile) | [Skills](#skills) | [Code](#code) | [Education](#education) | [Employment](#employment) 
+### [Profile](#profile) | [Skills](#skills) | [Code](#code) | [Education](#education) | [Employment](#employment) 
 
 
 ### Profile
@@ -33,7 +33,7 @@ As a recruiter, my suggestions around certain problematic recruitment and admini
 
 ### Education
 
-##### Makers Academy (October 2016 to February 2016)
+##### Makers Academy (October 2016 to February 2017)
 - Software craftsmanship
 - Object-oriented programming, test-driven development, Agile and SOLID practices
 - Git, Ruby & Javascript
